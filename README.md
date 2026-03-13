@@ -37,9 +37,9 @@ The analysis processed **5.5 million+ records** from the 2025 fiscal year. Key c
 ## Repository Structure
 * `/SQL_Scripts`: End-to-end scripts from data presence checks to final analysis.
 * `/Analytical_Report`: The final PDF Analytical Report for executive stakeholders.
-* `Visualizations`: Files for all visualizations used in report.
-* `Visualization_Data`: Data used in Tableau for all visualizations
-* `README.md`: Project summary and key findings.
+* `/Visualizations`: Files for all visualizations used in report.
+* `/Visualization_Data`: Data used in Tableau for all visualizations
+* `/README.md`: Project summary and key findings.
 
 ## Data Source
 The data was provided by Motivate International Inc. under this [Data License Agreement](https://divvy-tripdata.s3.amazonaws.com/data_license_agreement.html).
